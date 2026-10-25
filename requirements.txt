@@ -6,6 +6,6 @@ async-lru==2.0.5
 aioboto3==13.1.0
 requests==2.32.3 
 APScheduler==3.11.0
-cryptography==42.0.8
+cryptography==50.0.0
 python-telegram-bot==21.4
 
